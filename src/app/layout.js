@@ -11,6 +11,9 @@ const geist = Geist({
 export const metadata = {
   title: "Anthony Campos | Computer Science & Finance Student",
   description: "Personal website of Anthony Campos - Computer Science and Finance student at Northeastern University, passionate about AI and quantitative finance.",
+  icons: {
+    icon: '/aclogo.png',
+  },
 };
 
 export default function RootLayout({ children }) {

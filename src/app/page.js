@@ -34,25 +34,16 @@ const Home = () => {
                   Anthony Campos
                 </h1>
                 <div className="space-y-4 sm:space-y-6">
-                  <div>
-                    <p className="text-lg sm:text-xl text-muted-foreground">
-                      Computer Science & Finance Student
-                    </p>
-                    <p className="text-base sm:text-lg text-muted-foreground">
-                      Building the future of finance with AI
-                    </p>
-                  </div>
-                  
                   <div className="sketch-border p-4 sm:p-6 space-y-3 sm:space-y-4">
                     <p className="text-sm sm:text-base text-muted-foreground">
-                      I'm a third-year student at Northeastern University, pursuing a combined major in
-                      Computer Science and Finance. My academic focus lies at the intersection of artificial 
-                      intelligence and quantitative finance.
+                    I'm a student at Northeastern University, pursuing a combined major in
+                    Computer Science and Fintech.
                     </p>
                     <p className="text-sm sm:text-base text-muted-foreground">
-                      With experience in machine learning, algorithmic trading, and full-stack development,
-                      I'm passionate about building innovative solutions that bridge the gap between
-                      technology and finance.
+                    I'm currently building Facsimile, Dormeal, and TruckTetris - tools that leverage 
+                    technology to transform how we interact with data, communities, and logistics. I 
+                    strive to push the boundaries of what's possible at the intersection of human 
+                    needs and technological innovation.
                     </p>
                   </div>
                 </div>

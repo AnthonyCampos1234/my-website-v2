@@ -6,25 +6,25 @@ import { DownloadIcon } from "@radix-ui/react-icons";
 
 const experiences = [
   {
-    title: "Software Engineer Intern",
-    company: "Fidelity Investments",
-    period: "Jan 2024 - Present",
-    description: "Working on the Asset Management Technology team, developing and maintaining full-stack applications for portfolio managers and traders. Implementing machine learning models for market analysis.",
-    skills: ["Python", "React", "AWS", "Machine Learning"]
+    title: "Full-Stack Developer",
+    company: "Independent Projects",
+    period: "Present",
+    description: "Developed multiple full-stack applications including an AI Memory Bank, Logistics Optimization platform, and Personalized Student Advising System. Implemented RAG with Claude API, reducing advisor preparation time by 60%.",
+    skills: ["Skills on Resume"]
   },
   {
-    title: "Machine Learning Engineer",
+    title: "AI Research Lab Operations Manager",
     company: "Northeastern University",
-    period: "Sep 2023 - Dec 2023",
-    description: "Developed deep learning models for financial market prediction. Implemented and optimized trading algorithms using Python and various ML frameworks.",
-    skills: ["Python", "PyTorch", "TensorFlow", "Quantitative Analysis"]
+    period: "April 2024 - Present",
+    description: "Managing operations at the AI Research Lab and leading the Uncertainty-Aware Dialogue Systems research project. Built movement scripts for Pololu robots in SwarmScape and implemented disease detection using Google Vertex AI.",
+    skills: ["NLP", "Causal Vision", "Research", "Project Management"]
   },
   {
-    title: "Software Developer",
-    company: "Northeastern Electric Racing",
-    period: "Sep 2022 - Present",
-    description: "Lead developer for the team's software infrastructure. Built and maintained full-stack applications using React and Node.js.",
-    skills: ["React", "TypeScript", "Node.js", "AWS"]
+    title: "Data Analyst Intern",
+    company: "Aspire Institute",
+    period: "April 2024 - June 2024",
+    description: "Analyzed key metrics from alumni newsletters and weekly digests, providing data-driven suggestions to enhance engagement. Created visualizations and reports using Excel and Tableau, contributing to Aspire's global impact across 180+ countries.",
+    skills: ["Data Analysis", "Excel", "Tableau", "Reporting"]
   }
 ];
 
@@ -43,7 +43,9 @@ const Resume = () => {
           </motion.h2>
           
           <motion.a
-            href="/resume.pdf"
+            href="/AnthonysResume copy.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
             className="button-outline"
             initial={{ opacity: 0, x: 20 }}
             whileInView={{ opacity: 1, x: 0 }}
@@ -52,7 +54,7 @@ const Resume = () => {
             viewport={{ once: true }}
           >
             <DownloadIcon className="mr-2 h-4 w-4" />
-            Download CV
+            Resume
           </motion.a>
         </div>
 

@@ -32,14 +32,14 @@ const About = () => {
             viewport={{ once: true }}
           >
             <p className="text-muted-foreground">
-              I'm a third-year student at Northeastern University, pursuing a combined major in
-              Computer Science and Finance. My academic focus lies at the intersection of artificial 
-              intelligence and quantitative finance.
+              I'm a student at Northeastern University, pursuing a combined major in
+              Computer Science and Fintech.
             </p>
             <p className="text-muted-foreground">
-              With experience in machine learning, algorithmic trading, and full-stack development,
-              I'm passionate about building innovative solutions that bridge the gap between
-              technology and finance.
+              I'm currently building Facsimile, Dormeal, and TruckTetris - tools that leverage 
+              technology to transform how we interact with data, communities, and logistics. I strive 
+              to push the boundaries of what's possible at the intersection of human 
+              needs and technological innovation.
             </p>
           </motion.div>
 
