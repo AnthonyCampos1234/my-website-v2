@@ -24,6 +24,14 @@ const projects = [
     image: "/projects/trucktetrispic.png"
   },
   {
+    title: "TruckTetris v2 - Simplified AI-Powered Logistics",
+    description: "A streamlined logistics management platform optimizing truck loading patterns with AI. Designed for CSV order processing, featuring chat-based interaction and real-time loading plan generation. Built for Moran Logistics' Target cardboard supply chain, improving usability and reducing complexity compared to v1.",
+    tech: ["Next.js", "JavaScript", "React", "Tailwind CSS", "Radix UI", "Anthropic Claude API"],
+    liveLink: "https://github.com/AnthonyCampos1234/TruckTetrisv2",
+    githubLink: "https://github.com/AnthonyCampos1234/TruckTetrisv2",
+    image: "/projects/trucktetrisv2pic.png"
+  },
+  {
     title: "Dormeal - Campus Food Delivery",
     description: "A gig-based food delivery web application that enables students to order from on-campus restaurants with deliveries fulfilled by fellow students at significantly lower costs than traditional services. Features include a Flask backend, Stripe payments integration, and an automated email system for dasher notifications.",
     tech: ["Flask", "Python", "JavaScript", "Stripe API", "HTML/CSS"],
