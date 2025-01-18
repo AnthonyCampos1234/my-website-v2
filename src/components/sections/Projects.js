@@ -56,6 +56,14 @@ const projects = [
     image: "/projects/notapic.png"
   },
   {
+    title: "Stupedia - Yelp for People",
+    description: "Stupedia was an experimental project exploring the concept of a platform where individuals could rate and review others, similar to Yelp for businesses, but it was discontinued due to ethical concerns and potential for misuse. The project provided valuable lessons about privacy, ethics, and the societal impact of technology, influencing future efforts toward more ethical design.",
+    tech: ["SwiftUI", "Supabase"],
+    liveLink: "https://github.com/AnthonyCampos1234/Stupedia",
+    githubLink: "https://github.com/AnthonyCampos1234/Stupedia",
+    image: "/projects/stupediapic.png"
+  },
+  {
     title: "Avisari - University Advising Platform",
     description: "A comprehensive platform revolutionizing university operations by connecting students with advisors, providing tools for academic planning, course selection, and financial services management.",
     tech: ["Next.js", "TypeScript", "Supabase", "Tailwind CSS", "Next-Auth"],
