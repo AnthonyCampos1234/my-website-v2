@@ -32,6 +32,14 @@ const projects = [
     image: "/projects/Dormealpic.png"
   },
   {
+    title: "Dormeal2.0 - Campus Food Delivery App",
+    description: "A gig-based food delivery web application that enables students to order from on-campus restaurants with deliveries fulfilled by fellow students at significantly lower costs than traditional services. Features include a Flask backend, Stripe payments integration, and an automated email system for dasher notifications.",
+    tech: ["Swift", "Flask", "Python", "JavaScript", "Stripe API"],
+    liveLink: "https://github.com/AnthonyCampos1234/Dormeal2.0",
+    githubLink: "https://github.com/AnthonyCampos1234/Dormeal2.0",
+    image: "/projects/Dormeal2.0pic.png"
+  },
+  {
     title: "Waitless - Class Registration Management",
     description: "A modern web application that revolutionizes university class registration by connecting students who want to secure desired classes with those who can help them. Features include smart student matching, secure transactions, real-time updates, and a built-in communication system. Built with Next.js 15, TypeScript, and Firebase.",
     tech: ["Next.js 15", "TypeScript", "Firebase", "Tailwind CSS", "Shadcn/ui", "React Hook Form"],
