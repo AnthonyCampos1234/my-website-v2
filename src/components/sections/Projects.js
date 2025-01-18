@@ -11,7 +11,7 @@ const projects = [
     title: "Facsimile - AI Memory Bank",
     description: "Coming Soon: A revolutionary macOS tool that enables natural language search, weekly summaries, and personality profiling from messages. Built for secure local data processing, ensuring privacy while personalizing AI interactions. The foundation for an interoperable memory bank system.",
     tech: ["Swift", "CoreML", "LangChain", "Local LLMs"],
-    liveLink: "#",
+    liveLink: "https://github.com/AnthonyCampos1234/Facsimile",
     githubLink: "https://github.com/AnthonyCampos1234/Facsimile",
     image: "/projects/facsimilepic.png"
   },
