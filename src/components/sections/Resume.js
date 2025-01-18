@@ -43,7 +43,7 @@ const Resume = () => {
           </motion.h2>
           
           <motion.a
-            href="/AnthonyCampos'Resume.pdf"
+            href="/Anthony_Campos_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="button-outline"
