@@ -6,24 +6,24 @@ import { DownloadIcon } from "@radix-ui/react-icons";
 
 const experiences = [
   {
-    title: "Full-Stack Developer",
-    company: "Independent Projects",
-    period: "Present",
-    description: "Developed multiple full-stack applications including an AI Memory Bank, Logistics Optimization platform, and Personalized Student Advising System. Implemented RAG with Claude API, reducing advisor preparation time by 60%.",
-    skills: ["Skills on Resume"]
+    title: "Operations Manager & Lead of NLP Research",
+    company: "AI Perception Research Lab",
+    period: "September 2024 - Present",
+    description: "Managing operations at the AI Research Lab and leading research on uncertainty-aware dialogue systems. Focusing on probabilistic reasoning, adaptive conversational AI, and developing uncertainty estimation methods. Exploring Bayesian Neural Networks, Variational Inference, and integrating knowledge graphs for enhanced contextual understanding.",
+    skills: ["NLP", "Bayesian Networks", "Probabilistic Reasoning", "Research Management"]
   },
   {
-    title: "AI Research Lab Operations Manager",
-    company: "Northeastern University",
+    title: "E-Board Member",
+    company: "Northeastern AI Club",
     period: "April 2024 - Present",
-    description: "Managing operations at the AI Research Lab and leading the Uncertainty-Aware Dialogue Systems research project. Built movement scripts for Pololu robots in SwarmScape and implemented disease detection using Google Vertex AI.",
-    skills: ["NLP", "Causal Vision", "Research", "Project Management"]
+    description: "Developed a 4-session AI bootcamp covering mathematics, data preprocessing, machine learning, and neural networks. Built movement scripts for Pololu robots in SwarmScape with Google Vertex AI integration. Created a Python-based professor ranking tool with OpenAI API, reaching final 4 out of 27 teams in Hackathon.",
+    skills: ["AI Education", "Robotics", "API Integration", "Python"]
   },
   {
     title: "Data Analyst Intern",
     company: "Aspire Institute",
     period: "April 2024 - June 2024",
-    description: "Analyzed key metrics from alumni newsletters and weekly digests, providing data-driven suggestions to enhance engagement. Created visualizations and reports using Excel and Tableau, contributing to Aspire's global impact across 180+ countries.",
+    description: "Analyzed key metrics from alumni newsletters and weekly digests, providing data-driven suggestions to enhance engagement towards their 2027 goal. Created visualizations and reports using Excel and Tableau, contributing to Aspire's global impact across 180+ countries and 100K+ young adults.",
     skills: ["Data Analysis", "Excel", "Tableau", "Reporting"]
   }
 ];
