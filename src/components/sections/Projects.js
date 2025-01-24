@@ -48,6 +48,14 @@ const projects = [
     image: "/projects/Dormeal2.0pic.png"
   },
   {
+    title: "WutDoIDo - NEU Degree Audit Helper",
+    description: "A Chrome extension designed to enhance the Northeastern University degree audit experience. Features automatic Google Sheets integration for structured course scheduling, degree progress analysis, and intelligent course recommendations based on completed prerequisites and major requirements. Helps students better understand their academic progress and plan future courses more effectively.",
+    tech: ["JavaScript", "Chrome Extensions API", "Google Sheets API", "HTML/CSS"],
+    liveLink: "https://github.com/AnthonyCampos1234/WutDoIDo",
+    githubLink: "https://github.com/AnthonyCampos1234/WutDoIDo", 
+    image: "/projects/wutdoidopic.png"
+  },
+  {
     title: "Waitless - Class Registration Management",
     description: "A modern web application that revolutionizes university class registration by connecting students who want to secure desired classes with those who can help them. Features include smart student matching, secure transactions, real-time updates, and a built-in communication system. Built with Next.js 15, TypeScript, and Firebase.",
     tech: ["Next.js 15", "TypeScript", "Firebase", "Tailwind CSS", "Shadcn/ui", "React Hook Form"],
