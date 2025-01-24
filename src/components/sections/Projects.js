@@ -53,7 +53,7 @@ const projects = [
     tech: ["JavaScript", "Chrome Extensions API", "Google Sheets API", "HTML/CSS"],
     liveLink: "https://github.com/AnthonyCampos1234/WutDoIDo",
     githubLink: "https://github.com/AnthonyCampos1234/WutDoIDo", 
-    image: "/projects/wutdoidopic.png"
+    image: "/projects/wutdoido.png"
   },
   {
     title: "Waitless - Class Registration Management",
