@@ -8,6 +8,14 @@ import { useState, useEffect } from "react";
 
 const projects = [
   {
+    title: "Pydaline - Network Performance Analytics System",
+    description: "An intelligent network monitoring system combining deep learning and traditional ML to detect, predict, and analyze connectivity issues. Features real-time performance monitoring, environmental correlation analysis, predictive maintenance alerts using LSTM neural networks, and comprehensive visualization dashboards. Originally motivated by T-Mobile home internet inconsistencies, evolved into a complete solution reducing network issue diagnosis time from hours to minutes.",
+    tech: ["Python", "PyTorch", "scikit-learn", "pandas/numpy", "matplotlib/seaborn", "OpenWeather API"],
+    liveLink: "https://github.com/AnthonyCampos1234/Pydaline",
+    githubLink: "https://github.com/AnthonyCampos1234/Pydaline", 
+    image: "/projects/pydalinepic.png"
+  },
+  {
     title: "Facsimile - AI Memory Bank",
     description: "Coming Soon: A revolutionary macOS tool that enables natural language search, weekly summaries, and personality profiling from messages. Built for secure local data processing, ensuring privacy while personalizing AI interactions. The foundation for an interoperable memory bank system.",
     tech: ["Swift", "CoreML", "LangChain", "Local LLMs"],
